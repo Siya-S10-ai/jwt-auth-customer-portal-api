@@ -7,7 +7,7 @@ dotenv.config();
 //const uri = process.env.MONGODB_URI;
 
 const app = express();
-const secrertKey = 'fjkfufru#urnfu8oiio';
+const secretKey = 'fjkfufru#urnfu8oiio';
 
 app.use(express.json());
 
